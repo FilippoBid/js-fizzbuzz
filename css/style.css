@@ -1,0 +1,5 @@
+.normal-number{border: 3px coral solid;}
+.buzz-number{border: 3px rgb(0, 242, 44) dashed;}
+.fizz-number{border: 3px rgb(137, 8, 223) solid;}
+.fizzbuzz-number{border: 3px rgb(254, 42, 4) dotted;}
+.gino{width: 15% ; aspect-ratio: 1/1  ;}
